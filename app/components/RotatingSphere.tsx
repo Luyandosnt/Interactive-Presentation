@@ -12,20 +12,6 @@ const images = [
   "/assets/5.jpg",
   "/assets/6.jpg",
   "/assets/7.jpg",
-  "/assets/8.jpg",
-  "/assets/9.jpg",
-  "/assets/10.jpg",
-  "/assets/11.jpg",
-  "/assets/12.jpg",
-  "/assets/13.jpg",
-  "/assets/14.jpg",
-  "/assets/15.jpg",
-  "/assets/16.jpg",
-  "/assets/17.jpg",
-  "/assets/18.jpg",
-  "/assets/19.jpg",
-  "/assets/20.jpg",
-  "/assets/21.jpg",
 ]
 
 const Bubble: React.FC<{ size: number; left: string; delay: number; duration: number }> = ({
