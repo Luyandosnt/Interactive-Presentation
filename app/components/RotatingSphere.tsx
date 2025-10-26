@@ -5,13 +5,13 @@ import type React from "react"
 import { useEffect, useState, useRef, useMemo } from "react"
 
 const images = [
-  "/assets/1.jpg",
-  "/assets/2.jpg",
-  "/assets/3.jpg",
-  "/assets/4.jpg",
-  "/assets/5.jpg",
-  "/assets/6.jpg",
-  "/assets/7.jpg",
+  "/assets/1.jpeg",
+  "/assets/2.jpeg",
+  "/assets/3.jpeg",
+  "/assets/4.jpeg",
+  "/assets/5.jpeg",
+  "/assets/6.jpeg",
+  "/assets/7.jpeg",
 ]
 
 const Bubble: React.FC<{ size: number; left: string; delay: number; duration: number }> = ({
